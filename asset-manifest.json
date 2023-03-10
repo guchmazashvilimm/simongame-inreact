@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simongame-inreact/static/css/main.0534204b.css",
+    "main.js": "/simongame-inreact/static/js/main.70f9cd60.js",
+    "static/js/787.e42796c0.chunk.js": "/simongame-inreact/static/js/787.e42796c0.chunk.js",
+    "index.html": "/simongame-inreact/index.html",
+    "main.0534204b.css.map": "/simongame-inreact/static/css/main.0534204b.css.map",
+    "main.70f9cd60.js.map": "/simongame-inreact/static/js/main.70f9cd60.js.map",
+    "787.e42796c0.chunk.js.map": "/simongame-inreact/static/js/787.e42796c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0534204b.css",
+    "static/js/main.70f9cd60.js"
+  ]
+}
